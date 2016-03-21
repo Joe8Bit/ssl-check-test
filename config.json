@@ -1,5 +1,5 @@
 {
-  "days_to_alarm": 30,
+  "days_to_alarm": 80,
   "hosts": [{
       "host": "google.com"
   }]
