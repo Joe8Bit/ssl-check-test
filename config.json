@@ -1,3 +1,6 @@
-[{
-    "host": "google.com"
-}]
+{
+  "days_to_alarm": 30,
+  "hosts": [{
+      "host": "google.com"
+  }]
+}
